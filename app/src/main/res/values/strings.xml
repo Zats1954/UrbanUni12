@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveInstance</string>
+    <string name="toolbar_text">Каталог пользователей</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="text_age">Возраст</string>
+    <string name="exit">Выход</string>
+    <string name="save">Сохранить</string>
+</resources>
